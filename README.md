@@ -26,7 +26,7 @@ YandexGPT | LangChain | ElevenLabs | Fine-tuning (PyTorch) | Prompt Engineering
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Jupyter | Replit | AWS | Azure | MySQL | Google Firestore 
+1С | Python | Jupyter | Replit | AWS | Azure | MySQL | Google Firestore 
 GitHub | Make | Zapier | Voiceflow | Bootstrap | FastAPI
 ```
 
